@@ -1,4 +1,4 @@
-# Hi, I'm Chandalee 👋
+# Hi , I'm Chandalee Dharmathilaka
 
 🎓 **BSc (Hons) in Data Science Student**
 
