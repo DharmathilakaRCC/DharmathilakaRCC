@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Chandalee 👋
 
-<!--
-**DharmathilakaRCC/DharmathilakaRCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSc (Hons) in Data Science Student**
 
-Here are some ideas to get you started:
+I'm a Data Science undergraduate interested in **Data Science, Machine Learning, Artificial Intelligence, and Software Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical applications, working with data, and learning new technologies through real-world projects.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+
+`Python` `Java` `JavaScript` `SQL` `Dart`
+
+### 📊 Data Science & Machine Learning
+
+`Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Jupyter`
+
+### 🌐 Development
+
+`React` `Spring Boot` `Node.js` `Flutter` `Firebase`
+
+### 🗄️ Databases & Tools
+
+`MongoDB` `SQL Server` `MySQL` `Git` `GitHub` `Docker`
+
+---
+
+## Featured Projects
+
+### 📋 SyncBoard
+
+A collaborative project management application featuring Kanban boards and real-time synchronization.
+
+### 🦊 SkillFox
+
+A Flutter and Firebase application connecting customers with service workers.
+
+### ⚙️ Utility Management System
+
+A Spring Boot and SQL Server based utility management system.
+
+### 📊 Data Science Projects
+
+Data analysis, visualization, and machine learning projects using Python.
+
+---
+
+## 🌱 Currently Learning
+
+* Machine Learning
+* Data Analysis
+* Artificial Intelligence
+* Real-time Web Applications
+* Backend Development
+
+---
+
+## 🎯 My Goals
+
+To build practical solutions using **Data Science and Software Development** while continuously improving my technical skills.
+
+---
+
+## 📫 Connect With Me
+
+💼 **LinkedIn:** Coming soon
+
+📧 **Email:** Coming soon
+
