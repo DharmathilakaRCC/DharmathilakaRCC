@@ -66,7 +66,6 @@ To build practical solutions using **Data Science and Software Development** whi
 
 ## 📫 Connect With Me
 
-💼 **LinkedIn:** Coming soon
+💼 **LinkedIn:** www.linkedin.com/in/chandalee-dharmathilaka-9699642b1
 
-📧 **Email:** Coming soon
 
