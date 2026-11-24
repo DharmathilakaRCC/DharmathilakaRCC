@@ -54,19 +54,9 @@ Flutter · Firebase · Spring Boot · React · .NET · Git · GitHub · Docker
 
 ---
 
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DharmathilakaRCC&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DharmathilakaRCC&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Let's Connect!
 
 - 💼 LinkedIn: [Chandalee Dharmathilaka](https://www.linkedin.com/in/chandalee-dharmathilaka-9699642b1)
-- 💻 GitHub: [@DharmathilakaRCC](https://github.com/DharmathilakaRCC)
 
 ---
 
