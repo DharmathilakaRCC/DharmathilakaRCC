@@ -1,27 +1,73 @@
-# Hi, I'm Chandalee 👋
+# Hi, I'm Chandalee! 👋
 
-BSc (Hons) Data Science undergraduate. I build practical AI and software
-projects: local LLM apps with RAG, data analysis in Python, and full-stack
-and mobile apps.
+### BSc (Hons) Data Science Undergraduate | AI & Software Developer
 
-## 🛠️ Tech
-**Languages:** Python, SQL, Java, JavaScript, Dart, C#
-**Data & ML:** Pandas, NumPy, scikit-learn, Matplotlib, Jupyter
-**LLM & AI:** LangChain, Ollama, ChromaDB, Streamlit
-**Apps & tools:** Flutter, Firebase, Spring Boot, React, Git, Docker
+I'm a Data Science undergraduate passionate about building practical AI-powered applications, intelligent systems, and software solutions. I enjoy exploring new technologies and turning ideas into real-world projects.
 
-## 📌 Featured projects
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [University RAG Assistant](https://github.com/DharmathilakaRCC/university-rag-assistant) | Chat with university PDFs, with page-level sources, running a local LLM | Python, LangChain, Ollama, ChromaDB |
-| [AI Agents](https://github.com/DharmathilakaRCC/AI_Agents) | Tool-using agents with memory and RAG | Python, LangChain, Ollama |
-| SkillFox | Connects customers with service workers (https://github.com/ItsKalfox/skillfox.git)) | Flutter, Firebase |
-| SyncBoard | Kanban board with real-time sync.(https://github.com/ItsKalfox/collabboard-client.git) | (stack) |
-| [Restaurant Management System](https://github.com/DharmathilakaRCC/Restaurant-Management-System) | Desktop app | C#, .NET |
+- 🔭 Working on AI applications, RAG systems, and LLM-based agents.
+- 🌱 Exploring Generative AI, Machine Learning, and AI Agent development.
+- 🧠 Interested in Healthcare AI, Graph Neural Networks, and Data Science research.
+- 💻 Building projects with Python, LangChain, Ollama, and modern development technologies.
 
-## 🌱 Currently
-Retrieval-augmented generation, LLM agents and evaluation, and a final-year
-research project in healthcare machine learning.
+---
 
-## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/chandalee-dharmathilaka-9699642b1)
+## 🛠️ Tech Stack
+
+**Programming Languages**
+
+Python · SQL · Java · JavaScript · Dart · C#
+
+**Data Science & Machine Learning**
+
+Pandas · NumPy · Scikit-learn · Matplotlib · Jupyter Notebook
+
+**AI & Generative AI**
+
+LangChain · Ollama · ChromaDB · Streamlit · RAG · LLM Agents
+
+**Application Development & Tools**
+
+Flutter · Firebase · Spring Boot · React · .NET · Git · GitHub · Docker
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [University RAG Assistant](https://github.com/DharmathilakaRCC/university-rag-assistant) | AI-powered university assistant that answers questions from uploaded documents with source references. | Python, LangChain, Ollama, ChromaDB |
+| [AI Agents](https://github.com/DharmathilakaRCC/AI_Agents) | Exploring intelligent AI agents with tools, memory, and Retrieval-Augmented Generation. | Python, LangChain, Ollama |
+| [SkillFox](https://github.com/ItsKalfox/skillfox) | Mobile application connecting customers with skilled service workers. | Flutter, Firebase |
+| [CollabBoard](https://github.com/ItsKalfox/collabboard-client) | Collaborative Kanban board with real-time synchronization and offline support. | JavaScript, PouchDB |
+| [Restaurant Management System](https://github.com/DharmathilakaRCC/Restaurant-Management-System) | Desktop-based restaurant management application. | C#, .NET |
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- AI Agents and Agentic Workflows
+- Machine Learning and Deep Learning
+- Healthcare Data Science and Predictive Modelling
+- Heterogeneous Graph Neural Networks
+
+---
+
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DharmathilakaRCC&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DharmathilakaRCC&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 LinkedIn: [Chandalee Dharmathilaka](https://www.linkedin.com/in/chandalee-dharmathilaka-9699642b1)
+- 💻 GitHub: [@DharmathilakaRCC](https://github.com/DharmathilakaRCC)
+
+---
+
+*Always learning, building, and exploring what's possible with technology. ✨*
