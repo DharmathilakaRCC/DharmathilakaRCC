@@ -1,71 +1,27 @@
-# Hi , I'm Chandalee Dharmathilaka
+# Hi, I'm Chandalee 👋
 
-🎓 **BSc (Hons) in Data Science Student**
+BSc (Hons) Data Science undergraduate. I build practical AI and software
+projects: local LLM apps with RAG, data analysis in Python, and full-stack
+and mobile apps.
 
-I'm a Data Science undergraduate interested in **Data Science, Machine Learning, Artificial Intelligence, and Software Development**.
+## 🛠️ Tech
+**Languages:** Python, SQL, Java, JavaScript, Dart, C#
+**Data & ML:** Pandas, NumPy, scikit-learn, Matplotlib, Jupyter
+**LLM & AI:** LangChain, Ollama, ChromaDB, Streamlit
+**Apps & tools:** Flutter, Firebase, Spring Boot, React, Git, Docker
 
-I enjoy building practical applications, working with data, and learning new technologies through real-world projects.
+## 📌 Featured projects
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [University RAG Assistant](https://github.com/DharmathilakaRCC/university-rag-assistant) | Chat with university PDFs, with page-level sources, running a local LLM | Python, LangChain, Ollama, ChromaDB |
+| [AI Agents](https://github.com/DharmathilakaRCC/AI_Agents) | Tool-using agents with memory and RAG | Python, LangChain, Ollama |
+| SkillFox | Connects customers with service workers (https://github.com/ItsKalfox/skillfox.git)) | Flutter, Firebase |
+| SyncBoard | Kanban board with real-time sync.(https://github.com/ItsKalfox/collabboard-client.git) | (stack) |
+| [Restaurant Management System](https://github.com/DharmathilakaRCC/Restaurant-Management-System) | Desktop app | C#, .NET |
 
----
+## 🌱 Currently
+Retrieval-augmented generation, LLM agents and evaluation, and a final-year
+research project in healthcare machine learning.
 
-## 🛠️ Tech Stack
-
-### 💻 Programming
-
-`Python` `Java` `JavaScript` `SQL` `Dart`
-
-### 📊 Data Science & Machine Learning
-
-`Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Jupyter`
-
-### 🌐 Development
-
-`React` `Spring Boot` `Node.js` `Flutter` `Firebase`
-
-### 🗄️ Databases & Tools
-
-`MongoDB` `SQL Server` `MySQL` `Git` `GitHub` `Docker`
-
----
-
-## Featured Projects
-
-### 📋 SyncBoard
-
-A collaborative project management application featuring Kanban boards and real-time synchronization.
-
-### 🦊 SkillFox
-
-A Flutter and Firebase application connecting customers with service workers.
-
-### ⚙️ Utility Management System
-
-A Spring Boot and SQL Server based utility management system.
-
-### 📊 Data Science Projects
-
-Data analysis, visualization, and machine learning projects using Python.
-
----
-
-## 🌱 Currently Learning
-
-* Machine Learning
-* Data Analysis
-* Artificial Intelligence
-* Real-time Web Applications
-* Backend Development
-
----
-
-## 🎯 My Goals
-
-To build practical solutions using **Data Science and Software Development** while continuously improving my technical skills.
-
----
-
-## 📫 Connect With Me
-
-💼 **LinkedIn:** www.linkedin.com/in/chandalee-dharmathilaka-9699642b1
-
-
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/chandalee-dharmathilaka-9699642b1)
